@@ -41,3 +41,15 @@
   color: #888;
 }
 
+.card{
+  border: 2px solid #ff6b81;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.card2{
+  border: 2px solid #ff6b81;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
